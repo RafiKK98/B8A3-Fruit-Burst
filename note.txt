@@ -1,0 +1,11 @@
+main :
+    1. Navbar
+    2. Banner (slider)
+    3. Deal of the day
+    4. Meet the team section
+    5. Footer
+bonus :
+    1. Image section under the banner
+    2. Modals from deals section
+    3. Why Choose Us section
+    4. Responsive
